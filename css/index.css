@@ -1,0 +1,25 @@
+body{overflow-x: hidden;}
+
+#main-header{padding: 20px;}
+
+#task-table{
+  width: 80%;
+  margin: auto;
+  margin-top: 70px;
+}
+
+button{
+
+  margin-right: 10px;
+
+}
+
+#user-paragraph{
+
+  display: inline;
+
+}
+
+.control-element{
+  margin-right: 10px;
+}
