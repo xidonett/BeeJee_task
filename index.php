@@ -2,9 +2,9 @@
 
 require_once 'application/controllers/login_controller.php';
 require_once 'application/controllers/list_controller.php';
-require_once 'application/controllers/edit_controller.php';
 require_once 'application/includes/db.php';
 require_once 'application/includes/libs/rb.php';
+
 ?>
 
   <head>
