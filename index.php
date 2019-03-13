@@ -98,6 +98,8 @@ require_once 'application/includes/libs/rb.php';
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
+          
+          <form method="post">
           <div class="modal-body">
             <p align="center"><input type="text" class="form-control" name="add[username]" placeholder="Имя пользователя" required /></p>
             <p align="center"><input type="email" class="form-control" name="add[email]" placeholder="E-mail" required /></p>
@@ -107,6 +109,7 @@ require_once 'application/includes/libs/rb.php';
             <button type="button" class="btn btn-danger" data-dismiss="modal">Закрыть</button>
             <button class="btn btn-success" type="submit" name="add[button]">Добавить</button>
           </div>
+          </form>
         </div>
       </div>
     </div>
